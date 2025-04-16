@@ -18,3 +18,8 @@
 - cart.md 생성
 
 ## 검색 기능 추가
+- search.md 생성
+
+## 사이드바 추가
+- sidebar.md 생성
+
